@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["5521981218655@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '5521981218655' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -25,19 +25,19 @@ const delayantispamcmd = 3
 //tempo de delay do antispamcmd (medido por segundos)
 
 const msgwelcomeimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nEscreve ${prefix}menu para lista de comandos`
+    return `BEM-VINDO KRL ${numero}\n\nEscreve ${prefix}MENU PRA TU VER MEUS COMANDOS`
 }
 //Texto de boas vindas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const byemsgimg = (numero, groupname) => {
-    return `Adeus ${numero}`
+    return `ADEUS ${numero}`
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO BRIZAS-BOT COM 434 COMANDOS, BATERIA: ${battery}`
+    return `⏤͟͟͞͞ঔৣ͜͡𝖆𝚟𝖆𝖑𝖆𝖓𝖈𝖍𝖊᭄ꦿ BOT com 434 COMANDOS, BATERIA: ${battery}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -46,28 +46,28 @@ const titlemenumsgimg = 'BEM-VINDO'
 //Título no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundmenuimg = `https://i.imgur.com/tVKFNFk.png`
+const backgroundmenuimg = `https://picfiles.alphacoders.com/218/218496.jpg`
 //Link direto da imagem de fundo TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundwelcomeimg = `https://i.imgur.com/tVKFNFk.png`
+const backgroundwelcomeimg = `https://picfiles.alphacoders.com/218/218496.jpg`
 //Link direto da imagem de fundo da boas-vindas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
+const backgroundbyeimg = `http://obviousmag.org/pensando_nessa_gente_da_vida/adeus.jpg`
 //Link direto da imagem de fundo das despedidas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
+const cr = '☄️⏤͟͟͞͞ঔৣ͜͡𝖆𝚟𝖆𝖑𝖆𝖓𝖈𝖍𝖊᭄ꦿ☄️\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
 // prefixo
 
-const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
+const blockedmsg = '*Seu número esta bloqueado, ou seja não ouvindo você TROXA KKK*'
 // mensagem quando alguem bloqueado solicita um comando
 
 const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
@@ -75,10 +75,10 @@ const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = '*Corra membro comum, jaja o seu ban chega*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
+const adminmsgtype = '*a msg é proibida, mas vc é adm entao está de boa*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
 const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
@@ -99,51 +99,51 @@ const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
 const banmsgpalavra = 'Palavra proibida? Já sabe né'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
-const qnttravahardroleta = 2
+const qnttravahardroleta = 20
 // quantidade de travas que mandam no roleta russa hard
 // Obs: O valor é multiplicado por 12 ent tenha cuidado
 
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
 
-const linkimgday = 'https://i.imgur.com/RR18JiI.jpg'
-const textmsgday = 'Ohayo gozaimasu, Onii-chan 👉👈'
+const linkimgday = 'http://4.bp.blogspot.com/-_uVCihPbmuo/VSHSwtU76dI/AAAAAAAAFcM/aZrjTNC3AX4/s1600/IMG-20150405-WA0004.jpg'
+const textmsgday = 'BOM DIA NESSA DISGRAÇAAA'
 // link e mensagem de bom dia
 
 const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
 const textmsgeve = `Kon'nichiwa Onii-chan, aceite esse café ☕`
 // link e mensagem de boa tarde
 
-const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
-const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
+const linkimgnig = 'https://i.ytimg.com/vi/CF9nWGfuQjQ/hqdefault.jpg'
+const textmsgnig = 'VAI DORMIR, VOÇE É UM CORNO E NAO UM MORCEGO'
 // link e mensagem de boa noite 
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Deu erro, tente novamente :/'
+const msgerr = 'OCORREU UM ERRO, TENTE AI BROW :/'
 // mensagem de erro
 
 const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Bakaaaa 😣😣'
+const botlindo = 'VALEU PUTAO'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
 const botfeio = 'Tu parece um sirgueijo, um caranguejo amassado 😡'
-const cadebot = 'Me chamou onii-chan 👉👈?'
+const cadebot = 'Me chamou pcr?'
 const botfdp = 'Te foder rapaz, te deitar na porrada quando tiver dormindo'
-const botgostoso = 'Arigato go sai masu 😳👉👈'
-const botfofo = 'Arigato go sai masu 😳👉👈'
-const botbaianor = 'Convidei sua placa-mãe pra minha rede seu corno'
+const botgostoso = 'somos 2 bb'
+const botfofo = 'muio obrigado bb'
+const botbaianor = 'teu pai aquele chifrudo'
 const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho'
-const botputa = 'Senhora sua mãe 😡'
+const botputa = 'sua mãe 😡'
 const botgay = 'Falou o manja rola 😡'
-const botviado = 'Falou o manja rola 😡'
-const numbotfeio = 'senhora sua mãe 😡'
+const botviado = 'meu pai atras da sua mae de quatro'
+const numbotfeio = 'steu cu é a roda meu pau é o freio'
 // KEYS
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguarde um pouco... ⌛',
+    wait: '⌛ DE UMA AGUARDADA AI BROW...',
     success: '✔️ Sucesso! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
@@ -162,9 +162,9 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Meu criador^~^\n' 
-+ 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'FN:FP^~^\n' 
++ 'ORG:FP;\n' 
++ 'TEL;type=CELL;type=VOICE;waid=5521981218655:+55 21 98121-8655\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
