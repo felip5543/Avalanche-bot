@@ -56,8 +56,8 @@ Terminal
 ---
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/felip5543/Avalanche-bot
+cd Avalanche-bot
 bash install.sh
 npm install
 npm i pm2 -g
