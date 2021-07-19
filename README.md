@@ -1,4 +1,4 @@
-# ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+# ⏤͟͟͞͞ঔৣ͜͡𝖆𝚟𝖆𝖑𝖆𝖓𝖈𝖍𝖊᭄ꦿ BOT
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
