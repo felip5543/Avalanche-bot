@@ -129,17 +129,19 @@ Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por t
 ---
 
 # 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
+[Paypal](ENTRAR EM CTT wa.me//21981218655)
 
-Pix
+[Pix](ENTRAR EM CTT wa.me//21981218655)
 
-<img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
+
 
 ---
 # 🤝 Contato
 
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
 
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
+[Whatsapp](https://api.whatsapp.com/send/?phone=%2B5521981218655&text&app_absent=0)
+
+[Youtube](https://www.youtube.com/channel/UC-gdachowdbS4l09xDtcIOQ)
+
 
 
