@@ -1,4 +1,4 @@
-# ⏤͟͟͞͞ঔৣ͜͡𝖆𝚟𝖆𝖑𝖆𝖓𝖈𝖍𝖊᭄ꦿ BOT
+# AVALANCHEꦿ BOT
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
